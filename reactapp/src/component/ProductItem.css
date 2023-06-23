@@ -16,5 +16,9 @@
 
 }
 .ProductItem img{
-    margin-top: 25px;
+    margin-top: 13px;
+}
+.ProductItem p{
+   font-size: 13px;
+   
 }

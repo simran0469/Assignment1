@@ -8,7 +8,7 @@ function ProductItem({name,email,phone,company,website,address,address1,address2
            </div>
            <div >
            <h2>{name}</h2>
-           <p><strong>Email: </strong>{email}</p>
+           <p ><strong>Email: </strong>{email}</p>
            <p><strong>Phone: </strong>{phone}</p>
            <p><strong>Company: </strong>{company}</p>
            <p><strong>Website: </strong>{website}</p>
